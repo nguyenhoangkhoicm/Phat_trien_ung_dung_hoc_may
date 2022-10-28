@@ -1,0 +1,8 @@
+Phan mem nhan dien tuoi va gioi tinh(Program_GA)
+
+Nha phat trien: Khoi - Bao - Dang
+
+Phien ban phan mem: v1.5
+
+Cam ket: phan mem se khong lay bat cu thong tin ca nhan nao tu may tinh ca nhan cua nguoi dung.
+
