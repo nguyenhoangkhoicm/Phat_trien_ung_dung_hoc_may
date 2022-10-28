@@ -1,6 +1,6 @@
 ## Phát triển ứng dụng học máy.
 
-# Hướng dẫn sử dụng phần mềm GAAI
+# Hướng dẫn sử dụng phần mềm Program GA
 
 Bước 1: Chọn file có tên Setup.exe, double click vào file.
 
