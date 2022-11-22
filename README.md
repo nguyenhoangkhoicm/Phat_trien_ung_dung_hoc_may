@@ -21,7 +21,7 @@ Bước 4: Các bạn ra màn hình Desktop và chọn vào biểu tượng, ho�
 Đây là phần mềm chúng ta vừa cài đặt song.
 Để sử dụng chương trình các bạn double click vào biểu tượng sau đó phần mềm sẽ xuất hiện giao diện:
 
-![image](https://user-images.githubusercontent.com/73278567/198586093-5b6b5414-471b-446d-bff0-878f38425457.png)
+![image](https://user-images.githubusercontent.com/73278567/203215074-f662412b-0b53-456f-9b67-b3d05b571511.png)
 
  
 Sau khi phần mềm đã hiển thị giao diện, chúng ta thấy giao diện gồm có cửa sổ hiển thị thông tin của phần mềm, và thanh tiến trình đang load vào chương trình, sau khi chúng ta load vào màn hình chính sẽ được giao diện như hình bên dưới:
